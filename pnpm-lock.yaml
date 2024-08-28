@@ -21,7 +21,7 @@ importers:
         specifier: ^9.9.0
         version: 9.9.1(jiti@1.21.6)
       fledge:
-        specifier: 0.0.2-next.0
+        specifier: next
         version: 0.0.2-next.0
       prettier:
         specifier: ^3.3.3
