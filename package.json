@@ -19,14 +19,14 @@
     "test": "vitest --run"
   },
   "devDependencies": {
-    "@eslint/js": "^9.9.0",
+    "@eslint/js": "^9.9.1",
     "@types/eslint__js": "^8.42.3",
-    "@types/node": "^22.4.0",
-    "eslint": "^9.9.0",
+    "@types/node": "^22.5.1",
+    "eslint": "^9.9.1",
     "fledge": "next",
     "prettier": "^3.3.3",
     "typescript": "^5.5.4",
-    "typescript-eslint": "^8.1.0",
+    "typescript-eslint": "^8.3.0",
     "vitest": "^2.0.5"
   },
   "packageManager": "pnpm@9.7.0",
