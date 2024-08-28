@@ -22,7 +22,7 @@ importers:
         version: 9.9.1(jiti@1.21.6)
       fledge:
         specifier: next
-        version: 0.0.2-next.2
+        version: 0.0.2-next.3
       prettier:
         specifier: ^3.3.3
         version: 3.3.3
@@ -669,8 +669,8 @@ packages:
   flatted@3.3.1:
     resolution: {integrity: sha512-X8cqMLLie7KsNUDSdzeN8FYK9rEt4Dt67OsG/DNGnYTSDBG4uFAJFBnUeiV+zCVAvwFy56IjM9sH51jVaEhNxw==}
 
-  fledge@0.0.2-next.2:
-    resolution: {integrity: sha512-ru3ouNcqO25CHVvfJAlGok1tPsDj7ErIJwlxnKuLxYreLkwMPTImSKOCB8GDF6Xit70MCg360sKVIU3afGa8Cg==}
+  fledge@0.0.2-next.3:
+    resolution: {integrity: sha512-OMhb61M8bzD71dZD8v/Z2MTWKaZ4+GMAEaruyI9QrjF1/DjCJoal4VlW8jpZJITZDyUwuu4AMO9SQmdwxFK6qw==}
     engines: {node: '>=20.0.0'}
     hasBin: true
 
@@ -1832,7 +1832,7 @@ snapshots:
 
   flatted@3.3.1: {}
 
-  fledge@0.0.2-next.2:
+  fledge@0.0.2-next.3:
     dependencies:
       '@clack/prompts': 0.7.0
       c12: 1.11.1
